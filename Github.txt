@@ -1,2 +1,6 @@
 Helloo Malavikaa Jayaprakash
 Welcome to luminar
+<<<<<<< HEAD
+=======
+ Goood morning
+>>>>>>> 4c6e003f18bfd8780c0503db547eea58fa7b7de7
